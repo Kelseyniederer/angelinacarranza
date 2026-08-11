@@ -6,10 +6,7 @@ export default function ContactSection() {
   return (
     <div
       className="relative pt-24 pb-16 -mb-24 overflow-hidden"
-      style={{
-        width: "100vw",
-        marginLeft: "calc(-50vw + 50%)",
-      }}
+      style={{ width: "100%" }}
     >
       <div className="absolute inset-0 pointer-events-none">
         <FlickeringGrid

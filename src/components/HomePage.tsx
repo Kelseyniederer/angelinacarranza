@@ -128,7 +128,7 @@ const sectionComponents: Record<string, React.ReactNode> = {
 
 export default function HomePage() {
   const orderedSections = Object.entries(DATA.sections)
-    .filter(([, s]) => s.enabled)
+    .filter(([key, s]) => s.enabled && key !== "contact")
     .sort(([, a], [, b]) => a.order - b.order)
     .map(([key]) => key);
 
