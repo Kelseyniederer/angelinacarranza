@@ -22,7 +22,7 @@ export default function Navbar() {
         onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
         className="text-foreground hover:text-foreground/70 transition-colors cursor-pointer"
       >
-        <SunIcon className="size-5" />
+        {theme === "dark" ? <MoonIcon className="size-5" /> : <SunIcon className="size-5" />}
       </button>
     </div>
   );
