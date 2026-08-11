@@ -133,35 +133,33 @@ export default function HomePage() {
     .map(([key]) => key);
 
   return (
-    <main className="min-h-dvh flex flex-col gap-8 relative">
+    <main className="min-h-dvh flex flex-col gap-6 md:gap-8 relative md:pr-[124px]">
       <section id="hero">
-        <div className="mx-auto w-full max-w-2xl space-y-8">
-          <div className="gap-2 gap-y-6 flex flex-col md:flex-row justify-between">
-            <div className="gap-2 flex flex-col order-2 md:order-1">
-              <BlurFadeText
-                delay={BLUR_FADE_DELAY}
-                className="text-3xl font-semibold tracking-tighter sm:text-4xl lg:text-5xl"
-                yOffset={8}
-                text={`Hi, I'm ${DATA.name.split(" ")[0]}`}
-              />
-              <BlurFadeText
-                className="text-muted-foreground max-w-[600px] md:text-lg lg:text-xl"
-                delay={BLUR_FADE_DELAY}
-                text={DATA.description}
-              />
-              <BlurFadeText
-                className="text-muted-foreground/70 max-w-[600px] text-sm md:text-base italic"
-                delay={BLUR_FADE_DELAY * 2}
-                text="Your favorite software engineer's favorite product manager."
-              />
-            </div>
-            <BlurFade delay={BLUR_FADE_DELAY} className="order-1 md:order-2">
-              <Avatar className="size-36 md:size-44 border rounded-full shadow-lg ring-4 ring-muted">
+        <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
+            <BlurFade delay={BLUR_FADE_DELAY} className="md:order-2 flex-none">
+              <Avatar className="size-28 md:size-28 lg:size-40 border rounded-full shadow-lg ring-4 ring-muted">
                 <AvatarImage alt={DATA.name} src={DATA.avatarUrl} />
                 <AvatarFallback>{DATA.initials}</AvatarFallback>
               </Avatar>
             </BlurFade>
-          </div>
+            <div className="gap-1.5 flex flex-col min-w-0 md:order-1 items-center md:items-start text-center md:text-left">
+              <BlurFadeText
+                delay={BLUR_FADE_DELAY}
+                className="text-3xl font-semibold tracking-tighter lg:text-5xl"
+                yOffset={8}
+                text={`Hi, I'm ${DATA.name.split(" ")[0]}`}
+              />
+              <BlurFadeText
+                className="text-muted-foreground text-sm md:text-base lg:text-xl"
+                delay={BLUR_FADE_DELAY}
+                text={DATA.description}
+              />
+              <BlurFadeText
+                className="text-muted-foreground/70 text-xs md:text-sm italic"
+                delay={BLUR_FADE_DELAY * 2}
+                text="Your favorite software engineer's favorite product manager."
+              />
+            </div>
         </div>
       </section>
       {orderedSections.map((key) => (
