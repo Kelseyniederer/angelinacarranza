@@ -133,7 +133,7 @@ export default function HomePage() {
     .map(([key]) => key);
 
   return (
-    <main className="min-h-dvh flex flex-col gap-6 md:gap-8 relative md:pr-[124px]">
+    <main className="min-h-screen flex flex-col gap-6 md:gap-8 relative md:pr-[124px]">
       <section id="hero">
         <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
             <BlurFade delay={BLUR_FADE_DELAY} className="md:order-2 flex-none">
