@@ -11,7 +11,7 @@ export default function ContactSection() {
         marginLeft: "calc(-50vw + 50%)",
       }}
     >
-      <div className="absolute inset-0">
+      <div className="absolute inset-0 pointer-events-none">
         <FlickeringGrid
           className="h-full w-full"
           squareSize={2}

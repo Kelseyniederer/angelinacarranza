@@ -120,12 +120,9 @@
     @apply border-border;
   }
 
-  html {
-    overflow-x: hidden;
-  }
-
   body {
-    @apply bg-background text-foreground overflow-x-hidden;
+    @apply bg-background text-foreground;
+    overflow-x: clip;
   }
 
   /* Shiki dual theme support */
