@@ -3,10 +3,14 @@ import { Icons } from "@/components/icons";
 import { SunIcon } from "@radix-ui/react-icons";
 import { Moon } from "lucide-react";
 import { useTheme } from "next-themes";
+import { useEffect, useState } from "react";
 
 export default function Navbar() {
   const linkedin = DATA.contact.social.LinkedIn;
   const { theme, setTheme } = useTheme();
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => setMounted(true), []);
+  const isDark = !mounted || theme === "dark";
 
   return (
     <div className="fixed top-4 right-4 z-30 flex items-center gap-3">
@@ -23,7 +27,7 @@ export default function Navbar() {
         onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
         className="text-foreground hover:text-foreground/70 transition-colors cursor-pointer"
       >
-        {theme === "dark" ? <Moon className="size-5" /> : <SunIcon className="size-5" />}
+        {isDark ? <Moon className="size-5" /> : <SunIcon className="size-5" />}
       </button>
     </div>
   );
