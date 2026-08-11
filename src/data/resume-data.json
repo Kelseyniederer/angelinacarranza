@@ -1,0 +1,201 @@
+{
+  "name": "Angelina Carranza",
+  "initials": "AC",
+  "url": "https://www.linkedin.com/in/angelinacarranza/",
+  "location": "Chicago, IL",
+  "locationLink": "https://www.google.com/maps/place/Chicago,+IL",
+  "description": "Sr. Product Manager @ Lively — payments nerd passionate about connecting people and products.",
+  "summary": "Resident payments nerd at Lively, overseeing debit cards and AI-driven reimbursements. My passion for connecting things — whether that be people or products — drives me to learn more about the world and find ways to integrate it better.",
+  "avatarUrl": "/picofme.jpeg",
+  "ogImage": "/og_image.png",
+  "contact": {
+    "email": "angelinac4242@gmail.com",
+    "tel": "",
+    "social": {
+      "GitHub": { "url": "https://github.com", "navbar": false },
+      "LinkedIn": { "url": "https://www.linkedin.com/in/angelinacarranza/", "navbar": true },
+      "X": { "url": "https://x.com", "navbar": false },
+      "Youtube": { "url": "https://youtube.com", "navbar": false }
+    }
+  },
+  "skills": [
+    "Product Management",
+    "Payments",
+    "Debit Cards",
+    "HSA/FSA",
+    "SAFe",
+    "Scrum",
+    "Change Management",
+    "Data Architecture",
+    "Privacy (CCPA/CIPP)",
+    "Marketing",
+    "Spanish",
+    "Business Process Improvement"
+  ],
+  "work": [
+    {
+      "company": "Lively, Inc.",
+      "href": "https://www.linkedin.com/company/livelyhsa/",
+      "badges": [],
+      "location": "Remote",
+      "title": "Senior Product Manager",
+      "logoUrl": "/logos/lively.jpeg",
+      "start": "March 2026",
+      "end": null,
+      "description": "Overseeing debit card products and AI-driven reimbursements for HSA/FSA accounts."
+    },
+    {
+      "company": "Lively, Inc.",
+      "href": "https://www.linkedin.com/company/livelyhsa/",
+      "badges": [],
+      "location": "Remote",
+      "title": "Product Manager",
+      "logoUrl": "/logos/lively.jpeg",
+      "start": "July 2022",
+      "end": "March 2026",
+      "description": "Product manager for all things related to spend. Managed the debit card platform, including a processor migration that moved 450K cards without disruption."
+    },
+    {
+      "company": "Lively, Inc.",
+      "href": "https://www.linkedin.com/company/livelyhsa/",
+      "badges": [],
+      "location": "Denver, Colorado",
+      "title": "Product Manager - Debit Card Solutions",
+      "logoUrl": "/logos/lively.jpeg",
+      "start": "January 2022",
+      "end": "July 2022",
+      "description": "Led product initiatives for debit card solutions within Lively's HSA/FSA spend platform."
+    },
+    {
+      "company": "Visa",
+      "href": "https://www.linkedin.com/company/visa/",
+      "badges": [],
+      "location": "Full-time",
+      "title": "Analyst - Business Strategy & Operations",
+      "logoUrl": "/logos/visa.jpeg",
+      "start": "September 2021",
+      "end": "January 2022",
+      "description": "Member of the newly created DPS Center for Excellence team, working to streamline the go-to-market process for Issuer Processing products."
+    },
+    {
+      "company": "Visa",
+      "href": "https://www.linkedin.com/company/visa/",
+      "badges": [],
+      "location": "Highlands Ranch, Colorado",
+      "title": "Sr. Associate, Business Strategy and Operations",
+      "logoUrl": "/logos/visa.jpeg",
+      "start": "March 2020",
+      "end": "September 2021",
+      "description": ""
+    },
+    {
+      "company": "Visa",
+      "href": "https://www.linkedin.com/company/visa/",
+      "badges": [],
+      "location": "Denver, Colorado",
+      "title": "Product Associate",
+      "logoUrl": "/logos/visa.jpeg",
+      "start": "June 2018",
+      "end": "March 2020",
+      "description": "Member of the Debit Product team working on value-added services. Continued initiatives from internship and took on more responsibilities as a new graduate on the team."
+    },
+    {
+      "company": "Visa",
+      "href": "https://www.linkedin.com/company/visa/",
+      "badges": ["Intern"],
+      "location": "Highlands Ranch, Colorado",
+      "title": "Debit Processing Services Product Intern",
+      "logoUrl": "/logos/visa.jpeg",
+      "start": "May 2017",
+      "end": "August 2017",
+      "description": ""
+    },
+    {
+      "company": "University of Colorado Boulder",
+      "href": "https://www.linkedin.com/school/university-of-colorado-boulder/",
+      "badges": [],
+      "location": "Boulder, Colorado",
+      "title": "Student Assistant, Professional Mentorship Program",
+      "logoUrl": "/logos/cu-boulder.jpeg",
+      "start": "October 2016",
+      "end": "May 2018",
+      "description": ""
+    },
+    {
+      "company": "United Interests",
+      "href": "https://www.linkedin.com/company/united-interests/",
+      "badges": [],
+      "location": "",
+      "title": "PR Assistant",
+      "logoUrl": "/logos/united-interests.jpeg",
+      "start": "January 2016",
+      "end": "May 2016",
+      "description": "Updated databases of press contacts using FileMaker. Tracked events and publicity for bands Elephant Revival and Making Movies. Assisted with drafting emails and press releases in Spanish for media outlets."
+    },
+    {
+      "company": "Spell-It-Out Photos",
+      "href": "https://www.linkedin.com/company/spell-it-out-photos/",
+      "badges": ["Intern"],
+      "location": "",
+      "title": "Marketing Intern",
+      "logoUrl": "/logos/spell-it-out.jpeg",
+      "start": "June 2015",
+      "end": "August 2015",
+      "description": "Researched marketing opportunities for various products. Developed long-term marketing strategies for business growth. Generated social media marketing ideas and created posts for Facebook and Twitter."
+    },
+    {
+      "company": "GameStop",
+      "href": "https://www.linkedin.com/company/gamestop/",
+      "badges": [],
+      "location": "",
+      "title": "Game Advisor",
+      "logoUrl": "/logos/gamestop.jpeg",
+      "start": "October 2014",
+      "end": "July 2016",
+      "description": "Greeted customers and used solution selling to identify their needs and recommend products. Worked with team members to generate sales while emphasizing customer service."
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Colorado Boulder - Leeds School of Business",
+      "href": "https://leeds.colorado.edu",
+      "degree": "BS in Business Administration, Marketing, Information Management & Operations Management",
+      "logoUrl": "/logos/cu-boulder.jpeg",
+      "start": "2014",
+      "end": "2018"
+    },
+    {
+      "school": "Udacity",
+      "href": "https://udacity.com",
+      "degree": "Nanodegree - Data Architect",
+      "logoUrl": "/logos/udacity.jpeg",
+      "start": "2022",
+      "end": "2023"
+    }
+  ],
+  "projects": [
+    {
+      "title": "You Can Have Your Liberal Arts Degree and Eat Too",
+      "href": "https://www.dailycamera.com/2018/03/23/angelina-carranza-you-can-have-your-liberal-arts-degree-and-eat-too/",
+      "dates": "March 23, 2018",
+      "active": true,
+      "description": "Published op-ed in the Boulder Daily Camera making the case for the value of a liberal arts education in the modern workforce.",
+      "technologies": ["Writing", "Boulder Daily Camera"],
+      "links": [{ "type": "Website", "href": "https://www.dailycamera.com/2018/03/23/angelina-carranza-you-can-have-your-liberal-arts-degree-and-eat-too/" }],
+      "image": "",
+      "video": ""
+    }
+  ],
+  "hackathons": [],
+  "photos": [
+    { "src": "/photos/photo1.jpg", "alt": "Photo 1" },
+    { "src": "/photos/photo2.jpg", "alt": "Photo 2" },
+    { "src": "/photos/photo3.jpg", "alt": "Photo 3" },
+    { "src": "/photos/photo4.jpg", "alt": "Photo 4" },
+    { "src": "/photos/photo5.jpg", "alt": "Photo 5" },
+    { "src": "/photos/photo6.jpg", "alt": "Photo 6" },
+    { "src": "/photos/photo7.jpg", "alt": "Photo 7" },
+    { "src": "/photos/photo8.jpg", "alt": "Photo 8" },
+    { "src": "/photos/photo9.jpg", "alt": "Photo 9" }
+  ]
+}
