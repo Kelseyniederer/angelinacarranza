@@ -186,6 +186,17 @@
   ],
   "projects": [
     {
+      "title": "El Paseo",
+      "href": "https://www.hindsightjournal.org/journals",
+      "dates": "2019",
+      "active": true,
+      "description": "Published in Hindsight (formerly Journal 2020), a University of Colorado Boulder journal.",
+      "technologies": ["Writing", "Hindsight"],
+      "links": [{ "type": "Website", "href": "https://www.hindsightjournal.org/journals" }],
+      "image": "",
+      "video": ""
+    },
+    {
       "title": "You Can Have Your Liberal Arts Degree and Eat Too",
       "href": "https://www.dailycamera.com/2018/03/23/angelina-carranza-you-can-have-your-liberal-arts-degree-and-eat-too/",
       "dates": "March 23, 2018",
