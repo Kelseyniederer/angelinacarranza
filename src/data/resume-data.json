@@ -5,11 +5,11 @@
   "location": "Chicago, IL",
   "locationLink": "https://www.google.com/maps/place/Chicago,+IL",
   "description": "Sr. Product Manager @ Lively — payments nerd passionate about connecting people and products.",
-  "summary": "Resident payments nerd at Lively, overseeing debit cards and AI-driven reimbursements. My passion for connecting things — whether that be people or products — drives me to learn more about the world and find ways to integrate it better.",
+  "summary": "Senior Product Manager at Lively in benefits administration and debit card processing, owning the roadmap for card services, claims, and enrollment integrations across two engineering teams. I build AI into both products and practice — I launched an AI claims adjudication platform that cut processing time from days to minutes — and led a 470,000-card processor migration in a 5-day cutover. My passion for connecting things — whether that be people or products — drives me to learn more about the world and find ways to integrate it better.",
   "avatarUrl": "/picofme.jpeg",
   "ogImage": "/og_image.png",
   "contact": {
-    "email": "angelinac4242@gmail.com",
+    "email": "angelina.l.carranza@gmail.com",
     "tel": "",
     "social": {
       "GitHub": { "url": "https://github.com", "navbar": false },
@@ -19,19 +19,21 @@
     }
   },
   "skills": [
-    "Product Management",
-    "AI Tools (Claude, ChatGPT, Lovable)",
+    "Product Roadmapping",
+    "Scrum Product Owner",
+    "AI Tools (Claude, Claude Code, ChatGPT)",
     "Payments",
     "Debit Cards",
     "HSA/FSA",
-    "SAFe",
-    "Scrum",
+    "Data Analysis (Pendo, Salesforce)",
+    "Python",
+    "SQL",
+    "Snowflake",
+    "Jira & Confluence",
+    "Process Improvement",
     "Change Management",
-    "Data Architecture",
-    "Privacy (CCPA/CIPP)",
-    "Marketing",
-    "Spanish",
-    "Business Process Improvement"
+    "Spanish (Advanced)",
+    "Portuguese (Basic)"
   ],
   "work": [
     {
@@ -43,7 +45,7 @@
       "logoUrl": "/logos/lively.jpeg",
       "start": "March 2026",
       "end": null,
-      "description": "Overseeing debit card products and AI-driven reimbursements for HSA/FSA accounts."
+      "description": "Own the product roadmap for card services, claims processing, and enrollment integrations, leading 6 engineers across 2 teams. Launched Smart Claims, an AI-powered claims adjudication platform that automated 120,000+ claims, reduced processing time from 2–3 days to minutes, and cut manual operations workload by 66%+. Built an AI-powered explanation of benefits (EOB) analyzer prototype with one engineer in 2 months to detect insurance billing inconsistencies. Partner with engineering, operations, compliance, vendors, and C-suite stakeholders, and mentor PMs on product practices."
     },
     {
       "company": "Lively, Inc.",
@@ -54,7 +56,7 @@
       "logoUrl": "/logos/lively.jpeg",
       "start": "July 2022",
       "end": "March 2026",
-      "description": "Product manager for all things related to spend. Managed the debit card platform, including a processor migration that moved 450K cards without disruption."
+      "description": "Product manager for all things related to spend. Led Lively's largest debit card platform modernization, migrating 470,000 debit cards from Visa DPS to Fiserv in a 5-day cutover without reissuing cards — delivered on schedule to avoid $300K in additional costs and reduce annual vendor costs by hundreds of thousands of dollars. Delivered card lifecycle enhancements, including automated card reissuance and push provisioning, to support rapid cardholder growth."
     },
     {
       "company": "Lively, Inc.",
@@ -76,7 +78,7 @@
       "logoUrl": "/logos/visa.jpeg",
       "start": "September 2021",
       "end": "January 2022",
-      "description": "Member of the newly created DPS Center for Excellence team, working to streamline the go-to-market process for Issuer Processing products."
+      "description": "Member of the newly created DPS Center for Excellence team. Developed a framework to streamline product development and delivery for 8 product lines by researching industry best practices, interviewing stakeholders, and implementing a change management plan."
     },
     {
       "company": "Visa",
@@ -87,7 +89,7 @@
       "logoUrl": "/logos/visa.jpeg",
       "start": "March 2020",
       "end": "September 2021",
-      "description": ""
+      "description": "Volunteered to migrate 14 marketing campaigns to Adobe Experience Manager to meet a year-end deadline, and was invited back for a high-visibility client engagement that generated $3 million in revenue. Selected from 800+ internal applicants for a 3-month project defining a collaboration process across product, consulting, and marketing teams to upsell value-added services."
     },
     {
       "company": "Visa",
@@ -98,7 +100,7 @@
       "logoUrl": "/logos/visa.jpeg",
       "start": "June 2018",
       "end": "March 2020",
-      "description": "Member of the Debit Product team working on value-added services. Continued initiatives from internship and took on more responsibilities as a new graduate on the team."
+      "description": "Member of the Core Debit product team. Owned enhancements for Interactive Voice Response (IVR) and Contact Center products by gathering customer feedback, writing product requirements, and prioritizing the backlog. Partnered with developers to deliver 15 product enhancements, including 2 new services launched in 2019, and automated a manual billing process with a Python script."
     },
     {
       "company": "Visa",
@@ -160,7 +162,7 @@
     {
       "school": "University of Colorado Boulder - Leeds School of Business",
       "href": "https://leeds.colorado.edu",
-      "degree": "BS in Business Administration, Marketing, Information Management & Operations Management",
+      "degree": "B.S.B.A. with Honors — Marketing, Information Management & Operations Management. Minor in Spanish and English Literature; Certificate in Socially Responsible Enterprise; Dean's List 2015–2018",
       "logoUrl": "/logos/cu-boulder.jpeg",
       "start": "2014",
       "end": "2018"
@@ -172,6 +174,14 @@
       "logoUrl": "/logos/udacity.jpeg",
       "start": "2022",
       "end": "2023"
+    },
+    {
+      "school": "University of Denver",
+      "href": "https://www.du.edu",
+      "degree": "Leading Change for Transformation (Online)",
+      "logoUrl": "",
+      "start": "2021",
+      "end": "2021"
     }
   ],
   "projects": [
